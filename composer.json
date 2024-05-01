@@ -18,12 +18,6 @@
             "email": "islam.atia@kian.com.sa"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Kian\\StandardValidations\\StandardValidationsServiceProvider"
-            ]
-        }
-    }
+  
 
 }
