@@ -1,0 +1,21 @@
+{
+    "name": "kian/standard-validations",
+    "description": "make standard for validations",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Kian\\StandardValidations\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0 || ^8.3"
+    },
+    "authors": [
+        {
+            "name": "Islam Atia",
+            "email": "islam.atia@kian.com.sa\n"
+        }
+    ]
+}
