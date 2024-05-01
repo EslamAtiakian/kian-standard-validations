@@ -17,4 +17,9 @@ View in Github
 https://github.com/EslamAtiakian/kian-standard-validations
 ```
 
+Example
+``` bash
+'name' => ['required', new ShortTextRule() ],
+```
+
  
