@@ -4,7 +4,7 @@ namespace Kian\StandardValidations;
 
 use Illuminate\Support\ServiceProvider;
 
-class StandardValidationsProvider extends ServiceProvider{
+class StandardValidationsServiceProvider extends ServiceProvider{
 
     public function boot()
     {
