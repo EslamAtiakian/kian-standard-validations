@@ -8,6 +8,7 @@ use Illuminate\Contracts\Validation\ValidationRule;
 class ShortTextRule implements ValidationRule
 {
     protected int $minLength;
+    
     protected int $maxLength;
 
     public function __construct($minLength = 5, $maxLength = 255)
