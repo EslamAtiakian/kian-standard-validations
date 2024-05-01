@@ -10,7 +10,6 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "kian/standard-validations": "^1.0@dev",
         "php": "^8.0 || ^8.3"
     },
     "authors": [
